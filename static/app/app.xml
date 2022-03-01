@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+
+    <t t-name="Content">
+        <div class="o_content">
+            <t t-slot="content"/>
+        </div>
+    </t>
+
+    <t t-name="Ecomm" >
+    <div t-on-change-screen="_onChangeScreen">
+        <Header/>
+         <Content>
+                <t t-set-slot="content">
+                    <t t-component="state.currentScreen" t-props="state.params" />
+                </t>
+            </Content>
+          <!--<t t-if="state.currentScreen === 'ProductCategory'">
+            
+                <ProductCategory />
+            </t>
+            <t t-elif="state.currentScreen === 'ProductItems'">
+                <ProductItems/>
+                <t params="state.params"/>
+            </t>-->    
+        
+    </div>
+    </t>
+</templates>

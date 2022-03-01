@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+    <t t-name="Header">
+        <div class="o_header">
+            <img class="o_logo" src="static/img/logo.png"/>
+            <div class="o_menus">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/">Shop</a></li>
+                    <li><a href="/">Orders</a></li>
+                </ul>
+            </div>
+        </div>
+    </t>
+</templates>

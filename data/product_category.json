@@ -1,0 +1,460 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "image": "/static/img/img1.jpeg",
+            "name": "Dal"
+        },
+        {
+            "id": 2,
+            "image": "/static/img/img2.jpeg",
+            "name": "Oil"
+        },
+        {
+            "id": 3,
+            "image": "/static/img/img3.jpeg",
+            "name": "Rice"
+        },
+        {
+            "id": 4,
+            "image": "/static/img/img4.jpeg",
+            "name": "Biscuit" 
+        },
+        {
+            "id": 5,
+            "image": "/static/img/img5.jpeg",
+            "name": "Chocolate"
+        },
+        {
+            "id": 6,
+            "image": "/static/img/img6.jpeg",
+            "name": "Pulses"
+        },
+        {
+            "id": 7,
+            "image": "/static/img/img7.jpeg",
+            "name": "Spices"
+        },
+        {
+
+            "id": 8,
+            "image": "/static/img/img8.jpeg",
+            "name": "Beauty Poducts"
+        },
+        {
+            "id": 9,
+            "image": "/static/img/img9.jpeg",
+            "name": "Dry Fruits"
+        }
+    ],
+
+    "1":[
+        {
+            "id":1,
+            "name": "Moong Dal",
+            "image":"",
+            "price":"Rs.90",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":2,
+            "name": "Aharar Dal",
+            "image":"",
+            "price":"Rs.100",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":3,
+            "name": "Aharar Dal(oily)",
+            "image":"",
+            "price":"Rs.100",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":4,
+            "name": "Mogar Dal",
+            "image":"",
+            "price":"Rs.95",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":5,
+            "name": "Adad Dal",
+            "image":"",
+            "price":"Rs.105",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":6,
+            "name": "Chana Dal",
+            "image":"",
+            "price":"Rs.80",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":7,
+            "name": "Adad Dal(Kali)",
+            "image":"",
+            "price":"Rs.100",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":8,
+            "name": "Mashoor Dal",
+            "image":"",
+            "price":"Rs.95",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":9,
+            "name": "Moong Dal",
+            "image":"",
+            "price":"Rs.90",
+            "quantity":"1 Kg"
+        }
+    ],
+
+    "2":[
+        {
+            "id":1,
+            "name": "Sunflower Oil",
+            "image":"",
+            "price":"Rs.2400",
+            "quantity":"15 Liter"
+        },
+        {
+            "id":2,
+            "name": "Groundnut Oil",
+            "image":"",
+            "price":"Rs.2600",
+            "quantity":"15 Kg"
+        },
+        {
+            "id":3,
+            "name": "Cottenseed Oil",
+            "image":"",
+            "price":"Rs.2500",
+            "quantity":"15 Kg"
+        },
+        {
+            "id":4,
+            "name": "Mustard Oil",
+            "image":"",
+            "price":"Rs.2900",
+            "quantity":"15 Kg"
+        },
+        {
+            "id":5,
+            "name": "Ricebrand Oil",
+            "image":"",
+            "price":"Rs.2600",
+            "quantity":"15 Kg"
+        },
+        {
+            "id":6,
+            "name": "Soya Oil",
+            "image":"",
+            "price":"Rs.2450",
+            "quantity":"15 Kg"
+        },
+        {
+            "id":7,
+            "name": "Olive Oil",
+            "image":"",
+            "price":"Rs.8900",
+            "quantity":"15 Liter"
+        },
+        {
+            "id":8,
+            "name": "Till Oil",
+            "image":"",
+            "price":"Rs.3000",
+            "quantity":"15 Kg"
+        },
+        {
+            "id":9,
+            "name": "Coconut Oil",
+            "image":"",
+            "price":"Rs.3750",
+            "quantity":"15 Kg"
+        }
+    ],
+    "3":[
+        {
+            "id":1,
+            "name": "Simple Rice",
+            "image":"",
+            "price":"Rs.20",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":2,
+            "name": "Jeerasar Parimal Rice(Boil)",
+            "image":"",
+            "price":"Rs.35",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":3,
+            "name": "Jeerasar Kolam Rice(Boil)",
+            "image":"",
+            "price":"Rs.30",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":4,
+            "name": "Jeerasar Rice",
+            "image":"",
+            "price":"Rs.40",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":5,
+            "name": "Rice",
+            "image":"",
+            "price":"Rs.50",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":6,
+            "name": "Kanki Rice",
+            "image":"",
+            "price":"Rs.25",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":7,
+            "name": "kanki Basmati Rice",
+            "image":"",
+            "price":"Rs.40",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":8,
+            "name": "Basmati Rice",
+            "image":"",
+            "price":"Rs.70",
+            "quantity":"1 Kg"
+        },
+        {
+            "id":9,
+            "name": "1121 Basmati Rice",
+            "image":"",
+            "price":"Rs.100",
+            "quantity":"1 Kg"
+        }
+    ],
+    "4":[
+        {
+            "id": 1,
+            "name":"Coming Soon..."
+        }
+    ],
+    "5":[
+        {
+            "id":1,
+            "name":"Coming Soon..."
+        }
+    ],
+    "6":[
+        {
+            "id":1,
+            "name":"Moong",
+            "image":"",
+            "price":"Rs.90",
+            "quantity":"1 kg"
+        },
+        {
+            "id":2,
+            "name":"Toor",
+            "image":"",
+            "price":"Rs.90",
+            "quantity":"1 kg"
+        },
+        {
+            "id":3,
+            "name":"Rajma",
+            "image":"",
+            "price":"Rs.100",
+            "quantity":"1 kg"
+        },
+        {
+            "id":4,
+            "name":"White Beans",
+            "image":"",
+            "price":"Rs.90",
+            "quantity":"1 kg"
+        },
+        {
+            "id":5,
+            "name":"Green Beans",
+            "image":"",
+            "price":"Rs.140",
+            "quantity":"1 kg"
+        },
+        {
+            "id":6,
+            "name":"Masoor",
+            "image":"",
+            "price":"Rs.100",
+            "quantity":"1 kg"
+        },
+        {
+            "id":7,
+            "name":"Adad",
+            "image":"",
+            "price":"Rs.110",
+            "quantity":"1 kg"
+        },
+        {
+            "id":8,
+            "name":"Chana",
+            "image":"",
+            "price":"Rs.70",
+            "quantity":"1 kg"
+        },
+        {
+            "id":9,
+            "name":"Chikpea",
+            "image":"",
+            "price":"Rs.110",
+            "quantity":"1 kg"
+        }
+    ],
+    "7": [
+        {
+            "id": 1,
+            "name": "Black Pepper",
+            "image": "",
+            "price": "Rs.800",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 2,
+            "name": "Clove",
+            "image": "",
+            "price": "Rs.900",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 3,
+            "name": "Cinnamon",
+            "image": "",
+            "price": "Rs.400",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 4,
+            "name": "Cardamom",
+            "image": "",
+            "price": "Rs.2900",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 5,
+            "name": "Mace(Javitri)",
+            "image": "",
+            "price": "Rs.5000",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 6,
+            "name": "Maghaz",
+            "image": "",
+            "price": "Rs.300",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 7,
+            "name": "Cumin(Jerra)",
+            "image": "",
+            "price": "Rs.250",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 8,
+            "name": "Fennel(Soff)",
+            "image": "",
+            "price": "Rs.200",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 9,
+            "name": "Mustard Seed(Rai)",
+            "image": "",
+            "price": "Rs.150",
+            "quantity": "1 Kg"
+        }
+    ],
+    "8":[
+        {
+            "id":1,
+            "name":"Coming Soon..."
+        }
+    ],
+    "9": [
+        {
+            "id": 1,
+            "name": "Almond",
+            "image": "",
+            "price": "Rs.750",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 2,
+            "name": "Cashews",
+            "image": "",
+            "price": "Rs.850",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 3,
+            "name": "Raisin",
+            "image": "",
+            "price": "Rs.280",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 4,
+            "name": "Wallnut",
+            "image": "",
+            "price": "Rs.650",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 5,
+            "name": "Apricot",
+            "image": "",
+            "price": "Rs.600",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 6,
+            "name": "Fig(Anjeer)",
+            "image": "",
+            "price": "Rs.1100",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 7,
+            "name": "Simple Date",
+            "image": "",
+            "price": "Rs.80",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 8,
+            "name": "kimia Date",
+            "image": "",
+            "price": "Rs.250",
+            "quantity": "1 Kg"
+        },
+        {
+            "id": 9,
+            "name": "Fard Date",
+            "image": "",
+            "price": "Rs.320",
+            "quantity": "1 Kg"
+        }
+    ]
+}

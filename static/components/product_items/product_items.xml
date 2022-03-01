@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+    <t t-name="ProductItems">
+        <div class="list">
+            <t t-foreach="datas" t-as="data" t-key="data.id">
+                <div class="card">
+                    <div class="card-content">
+                        <img src="..." alt="Image Here..."/><br/>
+                        <b><t t-out="data.name"/></b><br/>
+                        Price: <t t-out="data.price"/><br/>
+                        Quantity: <t t-out="data.quantity"/>
+                    </div>
+                </div>
+            </t>
+        </div>
+    </t>
+</templates>

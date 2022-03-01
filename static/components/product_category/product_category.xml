@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+    <t t-name="ProductCategory">
+        <div class="list">
+            <t t-foreach="categories" t-as="category" t-key="category_index">
+            <div class="card" t-on-click.stop="_onClickForum" t-att-data-id="category.id" t-ref="forum">
+                <div class="container">
+                    <img t-attf-src="{{category.image}}"/><br/>
+                    <center><t t-out="category.name"/></center>
+                </div>
+            </div>
+                <br/>
+            </t>
+        </div>
+    </t>
+</templates>

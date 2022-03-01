@@ -1,0 +1,30 @@
+.o_header {
+    display: flex;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(to right, purple , grey);
+    margin-bottom: 10px;
+}
+.o_header .o_logo {
+    height: 75px;
+    width: auto;
+}
+.o_header .o_menus {
+    height: 75px;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    right:0px;
+}
+.o_header .o_menus ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+}
+.o_header .o_menus a {
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
